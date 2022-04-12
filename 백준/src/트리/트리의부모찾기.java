@@ -1,10 +1,10 @@
-package Æ®¸®;
+package íŠ¸ë¦¬;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Æ®¸®ÀÇºÎ¸ğÃ£±â {
+public class íŠ¸ë¦¬ì˜ë¶€ëª¨ì°¾ê¸° {
 	
 	static List<Integer>[] list;
 	static boolean ch[]=new boolean[100001];

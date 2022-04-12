@@ -3,7 +3,7 @@ package DP;
 import java.util.Iterator;
 import java.util.Scanner;
 
-public class ºÐ¹èÇÕ {
+public class ë¶„ë°°í•© {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

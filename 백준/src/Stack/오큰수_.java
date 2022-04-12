@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class ¿ÀÅ«¼ö_ {
+public class ì˜¤í°ìˆ˜_ {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

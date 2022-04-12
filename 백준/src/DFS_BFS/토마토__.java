@@ -10,7 +10,7 @@ import java.util.Queue;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class Åä¸¶Åä__ {
+public class í† ë§ˆí† __ {
 	
 	static Queue<int[]> q=new LinkedList<int[]>();
 	static int dx[]= {0,0,1,-1};

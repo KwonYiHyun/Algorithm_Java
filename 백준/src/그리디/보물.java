@@ -1,10 +1,10 @@
-package ±×¸®µð;
+package ê·¸ë¦¬ë””;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class º¸¹° {
+public class ë³´ë¬¼ {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

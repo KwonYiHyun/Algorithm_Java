@@ -1,9 +1,9 @@
-package Æ®¸®;
+package íŠ¸ë¦¬;
 
 import java.util.*;
 import java.io.*;
 
-public class Æ®¸®¼øÈ¸ {
+public class íŠ¸ë¦¬ìˆœíšŒ {
 	
 	static class Node{
 		int left;
@@ -30,8 +30,8 @@ public class Æ®¸®¼øÈ¸ {
 		
 		for (int i = 1; i <= n; i++) {
 			String[] line=br.readLine().split(" ");
-			// ¹®Á¦¿¡¼­ .(¾Æ½ºÅ°ÄÚµå78) À¸·Î Ç¥½ÃÇß±â ¶§¹®¿¡ 78-97+1=-18
-			// ³ª¸ÓÁö´Â AºÎÅÍ 1~
+			// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ .(ï¿½Æ½ï¿½Å°ï¿½Úµï¿½78) ï¿½ï¿½ï¿½ï¿½ Ç¥ï¿½ï¿½ï¿½ß±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 78-97+1=-18
+			// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Aï¿½ï¿½ï¿½ï¿½ 1~
 			int data=line[0].charAt(0)-'A'+1;
 			int left=line[1].charAt(0)-'A'+1;
 			int right=line[2].charAt(0)-'A'+1;
@@ -46,7 +46,7 @@ public class Æ®¸®¼øÈ¸ {
 		System.out.println(sb.toString());
 	}
 	
-	// ÀüÀ§ ¼øÈ¸
+	// ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È¸
 	static void preorder(int start) {
 		for (Node node : list[start]) {
 			int l=node.left;
@@ -58,7 +58,7 @@ public class Æ®¸®¼øÈ¸ {
 		}
 	}
 	
-	// ÁßÀ§ ¼øÈ¸
+	// ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È¸
 	static void inorder(int start) {
 		for(Node node : list[start]) {
 			int l=node.left;
@@ -70,7 +70,7 @@ public class Æ®¸®¼øÈ¸ {
 		}
 	}
 	
-	// ÈÄÀ§ ¼øÈ¸
+	// ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È¸
 	static void postorder(int start) {
 		for(Node node : list[start]) {
 			int l=node.left;

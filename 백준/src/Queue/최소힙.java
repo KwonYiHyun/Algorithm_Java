@@ -2,7 +2,7 @@ package Queue;
 
 import java.util.*;
 
-public class ÃÖ¼ÒÈü {
+public class ìµœì†Œí™ {
 	
 	static PriorityQueue<Integer> pq=new PriorityQueue<>();
 	static StringBuilder sb=new StringBuilder();

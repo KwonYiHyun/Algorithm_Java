@@ -1,8 +1,8 @@
-package ±×¸®µğ;
+package ê·¸ë¦¬ë””;
 
 import java.util.Scanner;
 
-public class ÀüÀÚ·¹ÀÎÁö {
+public class ì „ìë ˆì¸ì§€ {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -2,7 +2,7 @@ package DP;
 
 import java.util.Scanner;
 
-public class ÅõÀÚÀÇ±ÍÀç¹èÁÖÇü {
+public class íˆ¬ìì˜ê·€ì¬ë°°ì£¼í˜• {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

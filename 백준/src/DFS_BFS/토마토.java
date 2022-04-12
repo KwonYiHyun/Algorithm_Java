@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Åä¸¶Åä {
+public class í† ë§ˆí†  {
 	
 	static Queue<int[]> q=new LinkedList<int[]>();
 	static int dx[]= {0,0,1,-1};

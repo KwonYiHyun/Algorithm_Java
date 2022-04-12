@@ -3,7 +3,7 @@ package Stack;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class °ýÈ£ {
+public class ê´„í˜¸ {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -3,7 +3,7 @@ package DP;
 import java.util.Iterator;
 import java.util.Scanner;
 
-public class ¹Ì·ÎÅ½»ö {
+public class ë¯¸ë¡œíƒìƒ‰ {
 	
 	static int arrsave[][]=new int[1000][1000];
 //	static int N,M;

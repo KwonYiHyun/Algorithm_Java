@@ -1,8 +1,8 @@
-package Æ®¸®;
+package íŠ¸ë¦¬;
 
 import java.util.*;
 
-public class Æ®¸® {
+public class íŠ¸ë¦¬ {
 	
 //	static List<Integer> list=new ArrayList<Integer>();
 	static int arr[];

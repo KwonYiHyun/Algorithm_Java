@@ -3,7 +3,7 @@ package DFS_BFS;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class À¯±â³ó¹èÃß {
+public class ìœ ê¸°ë†ë°°ì¶” {
 	
 	static boolean ch[][]=new boolean[1001][1001];
 	static int grow[][]=new int[1001][1001];

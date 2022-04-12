@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class ¿µ¿ª±¸ÇÏ±â {
+public class ì˜ì—­êµ¬í•˜ê¸° {
 	
 	static boolean ch[][]=new boolean[1001][1001];
 	static int line[][]=new int[1001][1001];

@@ -10,7 +10,7 @@ import java.util.Queue;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class Åä¸¶Åä_ {
+public class í† ë§ˆí† _ {
 	
 	static int dx[]= {0,0,1,-1};
 	static int dy[]= {1,-1,0,0};

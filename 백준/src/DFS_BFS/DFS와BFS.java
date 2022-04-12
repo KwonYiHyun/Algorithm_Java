@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class DFS¿ÍBFS {
+public class DFSì™€BFS {
 	
 	static boolean ch[]=new boolean[1001];
 	static boolean line[][]=new boolean[1001][1001];

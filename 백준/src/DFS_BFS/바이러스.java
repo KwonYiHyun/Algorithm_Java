@@ -2,7 +2,7 @@ package DFS_BFS;
 
 import java.util.Scanner;
 
-public class ¹ÙÀÌ·¯½º {
+public class ë°”ì´ëŸ¬ìŠ¤ {
 	
 	static boolean ch[]=new boolean[1001];
 	static boolean line[][]=new boolean[1001][1001];

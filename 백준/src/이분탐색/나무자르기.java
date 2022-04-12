@@ -1,9 +1,9 @@
-package ÀÌºĞÅ½»ö;
+package ì´ë¶„íƒìƒ‰;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ³ª¹«ÀÚ¸£±â {
+public class ë‚˜ë¬´ìë¥´ê¸° {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

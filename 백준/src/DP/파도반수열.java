@@ -3,7 +3,7 @@ package DP;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class ÆÄµµ¹İ¼ö¿­ {
+public class íŒŒë„ë°˜ìˆ˜ì—´ {
 	
 	static ArrayList<Long> arr=new ArrayList<>();
 	static long d[]=new long[1000];

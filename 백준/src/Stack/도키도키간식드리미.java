@@ -8,7 +8,7 @@ import java.util.Iterator;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class µµÅ°µµÅ°°£½Äµå¸®¹Ì {
+public class ë„í‚¤ë„í‚¤ê°„ì‹ë“œë¦¬ë¯¸ {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub

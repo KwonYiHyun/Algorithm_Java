@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class ¹Ì·ÎÅ½»ö_ {
+public class ë¯¸ë¡œíƒìƒ‰_ {
 	
 	static int dx[]= {0,0,1,-1};
 	static int dy[]= {1,-1,0,0};

@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
-public class ÃÖ´ëÈü {
+public class ìµœëŒ€í™ {
 
 	static PriorityQueue<Integer> pq=new PriorityQueue<>(Collections.reverseOrder());
 	static StringBuilder sb=new StringBuilder();

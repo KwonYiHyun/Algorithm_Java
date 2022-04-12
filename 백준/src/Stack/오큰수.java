@@ -10,7 +10,7 @@ import java.util.Scanner;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class ¿ÀÅ«¼ö {
+public class ì˜¤í°ìˆ˜ {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub

@@ -1,4 +1,4 @@
-package ÀÌºĞÅ½»ö;
+package ì´ë¶„íƒìƒ‰;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,7 +9,7 @@ import java.util.Collections;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class ¼öÃ£±â {
+public class ìˆ˜ì°¾ê¸° {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub

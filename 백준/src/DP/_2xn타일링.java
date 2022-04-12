@@ -2,7 +2,7 @@ package DP;
 
 import java.util.Scanner;
 
-public class _2xnŸ�ϸ� {
+public class _2xn타일링 {
 	
 	static int d[]=new int[10000];
 

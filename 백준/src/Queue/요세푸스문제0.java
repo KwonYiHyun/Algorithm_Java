@@ -8,7 +8,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class ¿ä¼¼Çª½º¹®Á¦0 {
+public class ìš”ì„¸í‘¸ìŠ¤ë¬¸ì œ0 {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub

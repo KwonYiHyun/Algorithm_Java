@@ -1,4 +1,4 @@
-package ±×¸®µð;
+package ê·¸ë¦¬ë””;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -8,7 +8,7 @@ import java.util.Queue;
 import java.util.Scanner;
 import java.util.concurrent.PriorityBlockingQueue;
 
-public class Ä«µåÁ¤·ÄÇÏ±â {
+public class ì¹´ë“œì •ë ¬í•˜ê¸° {
 	
 	static PriorityQueue<Integer> pq=new PriorityQueue<Integer>();
 

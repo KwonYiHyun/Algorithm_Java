@@ -1,9 +1,9 @@
-package ±×¸®µð;
+package ê·¸ë¦¬ë””;
 
 import java.util.*;
 import java.util.Map.Entry;
 
-public class ´Ü¾î¼öÇÐ {
+public class ë‹¨ì–´ìˆ˜í•™ {
 	
 	static ArrayList<String> arr=new ArrayList<>();
 	static ArrayList<String> result=new ArrayList<>();

@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class ¹«ÇÑ¼ö¿­ {
+public class ë¬´í•œìˆ˜ì—´ {
 	
 	static long d[]=new long[10000000];
 	static Map<Long, Long> map=new HashMap<>();

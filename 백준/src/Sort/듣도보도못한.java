@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Scanner;
 
-public class µèµµº¸µµ¸øÇÑ {
+public class ë“£ë„ë³´ë„ëª»í•œ {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

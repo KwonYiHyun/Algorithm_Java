@@ -1,9 +1,9 @@
-package ±×¸®µð;
+package ê·¸ë¦¬ë””;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Ä·ÇÎ {
+public class ìº í•‘ {
 	
 	static StringBuilder sb=new StringBuilder();
 

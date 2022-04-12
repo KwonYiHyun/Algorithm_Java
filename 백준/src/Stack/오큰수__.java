@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class ¿ÀÅ«¼ö__ {
+public class ì˜¤í°ìˆ˜__ {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub

@@ -1,10 +1,10 @@
-package ±×¸®µð;
+package ê·¸ë¦¬ë””;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
-public class ¼ö¹­±â {
+public class ìˆ˜ë¬¶ê¸° {
 	
 	static PriorityQueue<Integer> pqp=new PriorityQueue<Integer>(Comparator.reverseOrder());
 	static PriorityQueue<Integer> pqm=new PriorityQueue<Integer>();

@@ -2,7 +2,7 @@ package Sort;
 
 import java.util.Scanner;
 
-public class »ğÀÔÁ¤·Ä {
+public class ì‚½ì…ì •ë ¬ {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

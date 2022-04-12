@@ -2,7 +2,7 @@ package DP;
 
 import java.util.Scanner;
 
-public class ½¬¿î°è´Ü¼ö {
+public class ì‰¬ìš´ê³„ë‹¨ìˆ˜ {
 	
 	static int d[]=new int[1000];
 

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class ¼öÁ¤·ÄÇÏ±â2 {
+public class ìˆ˜ì •ë ¬í•˜ê¸°2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -2,7 +2,7 @@ package DP;
 
 import java.util.Scanner;
 
-public class Ÿ�ϸ� {
+public class 타일링 {
 	
 	static int d[]=new int[100];
 

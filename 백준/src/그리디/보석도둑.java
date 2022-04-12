@@ -1,11 +1,11 @@
-package ±×¸®µğ;
+package ê·¸ë¦¬ë””;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class º¸¼®µµµÏ {
+public class ë³´ì„ë„ë‘‘ {
 	
 	static PriorityQueue<Integer> pq=new PriorityQueue<Integer>();
 	static ArrayList<ArrayList<Integer>> list=new ArrayList<ArrayList<Integer>>();

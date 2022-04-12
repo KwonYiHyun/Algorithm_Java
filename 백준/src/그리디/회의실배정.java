@@ -1,4 +1,4 @@
-package ±×¸®µğ;
+package ê·¸ë¦¬ë””;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -7,7 +7,7 @@ import java.util.Iterator;
 import java.util.Map.Entry;
 import java.util.Scanner;
 
-public class È¸ÀÇ½Ç¹èÁ¤ {
+public class íšŒì˜ì‹¤ë°°ì • {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

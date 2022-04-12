@@ -1,4 +1,4 @@
-package ±×¸®µð;
+package ê·¸ë¦¬ë””;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Ä«µåÁ¤·ÄÇÏ±â_½Ã°£ÃÊ°ú {
+public class ì¹´ë“œì •ë ¬í•˜ê¸°_ì‹œê°„ì´ˆê³¼ {
 	
 	static ArrayList<Integer> arr=new ArrayList<>();
 	static Queue<Integer> q=new LinkedList<>();

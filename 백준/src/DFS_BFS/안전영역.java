@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class ¾ÈÀü¿µ¿ª {
+public class ì•ˆì „ì˜ì—­ {
 	
 	static int dx[]= {0,0,1,-1};
 	static int dy[]= {1,-1,0,0};

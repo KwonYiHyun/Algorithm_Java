@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class ¹Ì·ÎÅ½»ö {
+public class ë¯¸ë¡œíƒìƒ‰ {
 	
 	static boolean ch[][]=new boolean[1001][1001];
 	static int line[][]=new int[1001][1001];
